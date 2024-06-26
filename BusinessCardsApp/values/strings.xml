@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business cards app</string>
+    <string name="name">Daniel Díaz</string>
+    <string name="skill">Android Developer</string>
+    <string name="mobile">+34 660 78 23 26</string>
+    <string name="link">https://github.com/silverhawkdeveloper</string>
+    <string name="email">d.g.daniel@outlook.com</string>
+</resources>
